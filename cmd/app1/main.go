@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	a := 1
-	sd = sfd
+	a++
+	fmt.Println(a)
 	fmt.Println("hello world")
 }
